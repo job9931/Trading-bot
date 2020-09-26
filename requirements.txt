@@ -1,0 +1,6 @@
+numpy
+pandas
+json
+websocket
+alpaca-trade-api
+talib
